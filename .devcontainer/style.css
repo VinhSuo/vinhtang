@@ -1,0 +1,52 @@
+body {
+  background-color: lightblue;
+  text-align: center;
+  font-family: Arial, sans-serif;
+
+}
+
+.card {
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 40px auto;
+  width: 80%;
+  max-width: 600px;
+  
+}
+
+.hero-image {
+  height: auto;
+  width: 100%;
+  border-radius: 50%;
+  margin-bottom: 20px;
+  
+}
+
+h1{
+  font-size: 48px;
+  color: darkblue;
+
+}
+
+h2 {
+  font-size: 32px;
+  color: lightgrey;
+
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+}
+
